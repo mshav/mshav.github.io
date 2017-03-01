@@ -1,0 +1,53 @@
+
+.intro{
+border-radius: 90px;
+border:solid white 7px;
+width:394px;
+text-align: center;
+font-family: sans-serif;
+background-color: #ba150d;
+margin-left: 460px;
+
+}
+.intro h1{
+color:white;
+
+}
+.content  h2{
+margin-left: 34px;
+color:white;
+}
+
+.content{
+border-radius:10px;
+border:solid white 3px;
+background-color:#0d7392;
+width:280px;
+margin-right:67px;
+
+}
+.city h1{
+border:solid white 1px;
+border-radius:10px;
+background-color:#ad0c24;
+width:240px;
+font-family: sans-serif;
+text-align:center;
+color:white;
+margin-bottom:40px;
+}
+.language h1{
+border-radius: 30px;
+border:white solid 5px;
+background-color:#4143f4;
+width:260px;
+color:white;
+margin-left:400px;
+}
+.waterfront h1{
+color:white;
+border-radius:30px;
+border:solid #030f00  7px;
+background-color:#030f00;
+width:440px;
+}
